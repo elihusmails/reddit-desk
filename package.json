@@ -1,0 +1,45 @@
+{
+  "name": "foxfeed",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "date-fns": "2.17.0",
+    "date-fns-tz": "1.1.2",
+    "javascript-time-ago": "2.3.4",
+    "polished": "4.1.1",
+    "querystring": "0.2.1",
+    "react": "17.0.1",
+    "react-debounce-input": "3.2.3",
+    "react-dom": "17.0.1",
+    "react-hotkeys-hook": "3.1.0",
+    "react-marquee-slider": "1.1.2",
+    "react-marquee-slider-emotion": "1.0.17",
+    "react-motion": "0.5.2",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "4.0.0",
+    "react-ticker": "1.2.2",
+    "react-tooltip": "4.2.14",
+    "react-transition-group": "2.4.0",
+    "rss-parser": "3.12.0",
+    "snoowrap": "1.22.0",
+    "styled-components": "5.2.1",
+    "uuid": "8.3.2"
+  },
+  "devDependencies": {
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

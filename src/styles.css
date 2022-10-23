@@ -1,0 +1,30 @@
+html {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background: black;
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #171d2c;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #12b4ff;
+  border-radius: 4px;
+}
